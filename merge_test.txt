@@ -1,4 +1,1 @@
 Merge test on master branch.
-
-    1. Add comment on "merge_testing_branch_1"
-    2. Add comment on "merge_testing_branch_1" 2st.
