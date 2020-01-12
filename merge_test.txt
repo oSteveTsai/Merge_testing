@@ -1,3 +1,4 @@
 Merge test on master branch.
     Add something in branch_1.
     Add something in branch_1 2nd.
+    Add something in branch_1 3rd.
