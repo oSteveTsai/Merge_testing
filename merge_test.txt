@@ -1,1 +1,2 @@
 Merge test on master branch.
+    Add something in branch_1.
